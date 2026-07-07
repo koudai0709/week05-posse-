@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../week04-posse-"
+		},
+		{
+			"path": "../drill-ph1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "week04-posse-"
+	}
+}
